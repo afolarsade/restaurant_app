@@ -21,7 +21,7 @@ import sign from '../assets/sign.png';
 import quote from '../assets/quote.png';
 import garetto from '../assets/garetto.png';
 
-export default {
+const things = {
   bg,
   chef,
   G,
@@ -45,3 +45,5 @@ export default {
   quote,
   garetto,
 };
+
+export default things;
